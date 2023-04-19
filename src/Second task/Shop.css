@@ -1,0 +1,39 @@
+
+.addProduct{
+    margin-left: 600px;
+   
+    margin-bottom: 20px;
+    
+    height: 30px;
+}
+
+.bordersize{
+   width: 20%;
+    float: left;
+    margin: 20px;
+    border: 2px solid gray;
+    box-shadow: 5px 5px #888888;
+    
+}
+.images{
+    padding: 10px;
+    float: left;
+    height: 100px;
+    /* width: 100px; */
+    
+}
+
+.shadow1:hover{
+    transform: scale(1.1);
+  }
+
+  .shadow1{
+    transition: transform.5s;
+    margin-left: 5px;
+  }
+
+  #filter{
+    height: 30px;
+    margin: 10px;
+    margin-top: 16px;
+}
